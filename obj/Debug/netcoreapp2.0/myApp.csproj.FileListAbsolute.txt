@@ -1,0 +1,11 @@
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/obj/Debug/netcoreapp2.0/myApp.csprojAssemblyReference.cache
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/mandy/Downloads/xmind-7.5-update2-linux/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
